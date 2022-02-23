@@ -1,7 +1,7 @@
 <?php
 
 //connect to database
-$conn = mysqli_connect('localhost', 'evea', 'test1234.', 'ninja_pizza');
+$conn = mysqli_connect('1234', '1234', '1234.', '1234');
 
 //check connection
 
